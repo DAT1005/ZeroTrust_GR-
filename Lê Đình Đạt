@@ -1,0 +1,7 @@
+echo "# ZeroTrust_GR-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DAT1005/ZeroTrust_GR-.git
+git push -u origin main
